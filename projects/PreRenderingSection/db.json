@@ -1,0 +1,120 @@
+{
+    "events":[
+        {
+            "id": 1,
+            "title": "Event 1",
+            "category": "sports",
+            "description": "Description 1",
+            "date":"April 25"
+        },
+        {
+            "id": 2,
+            "title": "Event 2",
+            "category": "food",
+            "description": "Description 2",
+            "date":"may 15"
+        },
+        {
+            "id": 3,
+            "title": "Event 3",
+            "category": "technology",
+            "description": "Description 3",
+            "date":"April 25"
+        },
+        {
+            "id": 4,
+            "title": "Event 4",
+            "category": "sports",
+            "description": "Description 4",
+            "date":"October 30"
+        },
+        {
+            "id": 5,
+            "title": "Event 5",
+            "category": "food",
+            "description": "Description 5",
+            "date":"April 19"
+        },
+        {
+            "id": 6,
+            "title": "Event 6",
+            "category": "fantastic",
+            "description": "Description 6",
+            "date":"December 13"
+        },
+        {
+            "id": 7,
+            "title": "Event 7",
+            "category": "technology",
+            "description": "Description 7",
+            "date":"April 29"
+        },
+        {
+            "id": 8,
+            "title": "Event 8",
+            "category": "sports",
+            "description": "Description 8",
+            "date":"April 25"
+        },
+        {
+            "id": 9,
+            "title": "Event 9",
+            "category": "news",
+            "description": "Description 9",
+            "date":"may 19"
+        },
+        {
+            "id": 10,
+            "title": "Event 10",
+            "category": "food",
+            "description": "Description 10",
+            "date":"December 26"
+        }
+    ],
+    "dashboard": {
+        "posts": 5,
+        "likes": 100,
+        "followers": 20,
+        "following": 15
+    },
+    "news": [
+        {
+            "id": 1,
+            "title": "News Article 1",
+            "category": "sports",
+            "description": "something1"
+        },
+        {
+            "id": 2,
+            "title": "News Article 2",
+            "category": "politics",
+            "description": "something2"
+        },
+        {
+            "id": 3,
+            "title": "News Article 3",
+            "category": "dream",
+            "description": "something3"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "title": "Product1",
+            "price": 1800,
+            "description": "something"
+        },
+        {
+            "id": 2,
+            "title": "Product2",
+            "price": 2900,
+            "description": "something2"
+        },
+        {
+            "id": 3,
+            "title": "Product3",
+            "price": 4760,
+            "description": "something3"
+        }
+    ]
+}

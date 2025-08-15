@@ -1,0 +1,21 @@
+.layout-header{
+    background: rgb(54, 225, 255);
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+.layout-footer{
+    background: rgb(54, 255, 118);
+    color: rgb(226, 58, 43);
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
